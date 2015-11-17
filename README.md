@@ -4,7 +4,7 @@
 
 9:00  - 9:15 : Strategy Intros and Setup Piece (Amundsen)
 
-9:15  - 10:00 : [Defining Microservices](https://drive.google.com/file/d/0B-463AriRRZ6S2d0c0ZiZU55OW8/view?pli=1) (McLarty)
+9:15  - 10:00 : [Defining Microservices](https://drive.google.com/file/d/0B-463AriRRZ6S2d0c0ZiZU55OW8/view?pli=1) (McLarty) [Reading List](MMReadingList.md)
 
 10:00 - 10:45  : Microservices in a Digital World (Lou Powell, Vanick)
 
