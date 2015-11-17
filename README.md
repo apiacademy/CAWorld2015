@@ -10,7 +10,7 @@
 
 10:45 - 11:00 : BREAK
 
-11:00 - 11:45 : Product Management for Microservices (Nadareishvili) 
+11:00 - 11:45 : [Product Management for Microservices](https://www.dropbox.com/s/n9hhwq11q50za02/Irakli-Api-product-management.pdf?dl=0) (Nadareishvili) 
 
 11:45 - Noon : Strategy Wrap-up, QnA (Mitra)
 
