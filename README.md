@@ -20,3 +20,4 @@
 
 ## Wednesday November 18th
 * Five Universal Principles of API Design (Mitra)
+* Implementing Adapatable Microservices (Amundsen)
