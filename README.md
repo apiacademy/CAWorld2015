@@ -18,7 +18,7 @@
 
 1:00 - 1:15 : Architecture Intros and Setup Piece (Nadareishvili)
 
-1:15 - 2:00 : Fostering a Microservices Culture (Amundsen)
+1:15 - 2:00 : Fostering a Microservices Culture (Amundsen) [slides](https://dl.dropboxusercontent.com/u/3551384/Fostering-A-Microservice-Culture.pdf) [reading](http://mamund.site44.com/talks/2015-10-velocity-teams/#_references)
 
 2:00 - 2:45 : Designing a Microservices Architecture (Mitra)
 
