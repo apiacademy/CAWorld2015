@@ -12,7 +12,7 @@
 ### Implementation (1:00 - 4:00)
  * 1:00 - 1:15 : Architecture Intros and Setup Piece (Nadareishvili)
  * 1:15 - 2:00 : [Fostering a Microservices Culture](https://dl.dropboxusercontent.com/u/3551384/Fostering-A-Microservice-Culture.pdf) (Amundsen)   [Reading List](https://github.com/apiacademy/CAWorld2015/blob/master/Fostering-MService-Culture.md)
- * 2:00 - 2:45 : Designing a Microservices Architecture (Mitra)
+ * 2:00 - 2:45 : [Designing a Microservices Architecture](https://www.dropbox.com/s/2ei8a9jaloh9tqz/Designing_Microservices_Architecture.pdf?dl=0) (Mitra)  [Reading List](https://github.com/apiacademy/CAWorld2015/blob/master/Designing_MS_Arch.md)
  * 2:45 - 3:00 : BREAK
  * 3:00 - 3:45 : [The New Toolchain and DEMO](https://www.dropbox.com/s/gx0t75iddk4tffx/CAW_MSA_New_Tool_Chain_v2015-irakli-jay.pdf?dl=0) (Thorne, Nadareishvili, Blain)
  * 3:45 - 4:00 : Implementation Wrap-up, QnA (McLarty)
