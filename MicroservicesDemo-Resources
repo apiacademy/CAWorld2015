@@ -1,0 +1,8 @@
+# References and Resources for the Microservices Demo
+
+1. [Microservices OPs Setup Automation Code on Github](https://github.com/apiacademy/microservices-deployment)
+1. [Ansible Documentation](http://docs.ansible.com/)
+1. [James Turnbull - The Docker Book](http://www.dockerbook.com/)
+1. [Node Bootstrap](http://nodebootstrap.io)
+1. [Consul by Hashicorp Documentation](https://www.consul.io/docs/index.html)
+1. [Registrator](https://github.com/gliderlabs/registrator)
