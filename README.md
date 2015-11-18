@@ -1,5 +1,6 @@
 # CAWorld 2015 Agenda and Slides
 
+## Tuesday November 17th
 ### Strategy (9:00 - Noon)
 
  * 9:00  - 9:15 : Strategy Intros and Setup Piece (Amundsen)
@@ -16,3 +17,6 @@
  * 2:45 - 3:00 : BREAK
  * 3:00 - 3:45 : [The New Toolchain and DEMO](https://www.dropbox.com/s/gx0t75iddk4tffx/CAW_MSA_New_Tool_Chain_v2015-irakli-jay.pdf?dl=0) (Thorne, Nadareishvili, Blain)
  * 3:45 - 4:00 : Implementation Wrap-up, QnA (McLarty)
+
+## Wednesday November 18th
+* Five Universal Principles of API Design (Mitra)
