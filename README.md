@@ -5,7 +5,7 @@
 
  * 9:00  - 9:15 : Strategy Intros and Setup Piece (Amundsen)
  * 9:15  - 10:00 : [Defining Microservices](https://drive.google.com/file/d/0B-463AriRRZ6S2d0c0ZiZU55OW8/view?pli=1) (McLarty) [Reading List](MMReadingList.md)
- * 10:00 - 10:45  : Microservices in a Digital World (Lou Powell, Vanick)
+ * 10:00 - 10:45  : [Microservices in a Digital World](https://drive.google.com/open?id=0B-463AriRRZ6NENhWGxNLWtDQkk) (Lou Powell, Vanick)
  * 10:45 - 11:00 : BREAK
  * 11:00 - 11:45 : [Product Management for Microservices](https://www.dropbox.com/s/n9hhwq11q50za02/Irakli-Api-product-management.pdf?dl=0) (Nadareishvili) [Reading List](https://github.com/apiacademy/CAWorld2015/blob/master/APIProductMgmt-ReadingList.md)
  * 11:45 - Noon : Strategy Wrap-up, QnA (Mitra)
